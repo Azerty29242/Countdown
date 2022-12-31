@@ -3,3 +3,9 @@ $(document).ready(function(){
         minDate: new Date()
     });
 });
+
+$(document).ready(function(){
+    $('.timepicker').timepicker({
+        twelveHour: false
+    });
+});
