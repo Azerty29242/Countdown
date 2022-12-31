@@ -8,4 +8,4 @@
 
 ## Bugs
 
-To request a new functionality or tell about a bug, please go to [that](https://github.com/Azerty29242/Countdown/issues) page and submit a new issue.
+To request a new functionality or tell about a bug, please go to [this](https://github.com/Azerty29242/Countdown/issues) page and submit a new issue.
