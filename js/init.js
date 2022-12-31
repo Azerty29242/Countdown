@@ -1,9 +1,9 @@
 $(document).ready(function(){
     $('.datepicker').datepicker({
-        minDate: new Date(),
-        defaultDate: new Date(Date.now() + 86400000)
+        minDate: new Date()
     });
     $('.timepicker').timepicker({
-        defaultTime: "00:00"
+        defaultTime: "00:00",
+        twelveHour: false
     });
 });
