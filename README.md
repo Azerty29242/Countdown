@@ -7,6 +7,10 @@
 3. (Optional) Enter a message that will be shown at the end of the countdown.
 3. Finally, click on the "go" button to access the countdown.
 
+## Releases
+
+To check for new releases and download the source code, go to [this](https://github.com/Azerty29242/Countdown/releases) page.
+
 ## Issues
 
 To request a new functionality or tell about a bug, please go to [this](https://github.com/Azerty29242/Countdown/issues) page and submit a new issue.
