@@ -1,4 +1,4 @@
-# Countdown ![favicon](/img/favicon.jpg)
+# Countdown ![favicon][img/favicon.jpg]
 
 ## How to use
 
